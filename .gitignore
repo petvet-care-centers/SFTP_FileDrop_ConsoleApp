@@ -1,0 +1,27 @@
+# Ignore the bin and obj directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+*.dll
+*.exe
+
+*.log
+
+packages/
+
+.env
+
+.vs/
+
+.DS_Store
+Thumbs.db
+
+bin/
+obj/
